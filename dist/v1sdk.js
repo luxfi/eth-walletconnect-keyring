@@ -14,7 +14,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.V1SDK = exports.DEFAULT_BRIDGE = void 0;
 // https://github.com/MetaMask/eth-simple-keyring#the-keyring-class-protocol
-const wc_client_1 = __importDefault(require("@luxfi/wc-client"));
+const wc_client_1 = __importDefault(require("@luxwallet/wc-client"));
 const utils_1 = require("./utils");
 const sdk_1 = require("./sdk");
 const helper_1 = require("./helper");

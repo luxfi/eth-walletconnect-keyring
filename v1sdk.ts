@@ -1,6 +1,6 @@
 // https://github.com/MetaMask/eth-simple-keyring#the-keyring-class-protocol
-import WalletConnect from '@luxfi/wc-client';
-import { IClientMeta } from '@luxfi/wc-types';
+import WalletConnect from '@luxwallet/wc-client';
+import { IClientMeta } from '@luxwallet/wc-types';
 import {
   TypedTransaction,
   JsonTx,
